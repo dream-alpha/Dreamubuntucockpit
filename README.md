@@ -29,5 +29,4 @@ For this use case no manual actions are required. The python2 plugin activates c
 
 ## Links
 
-- Installation: https://dream-alpha.github.io/UbuntuCockpit
-- Support: https://github.com/dream-alpha/UbuntuCockpit/discussions
+- Installation: https://dream-alpha.github.io/DreamUbuntuCockpit
