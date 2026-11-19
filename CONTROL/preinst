@@ -30,7 +30,7 @@ if [ -d $base_dir ]; then
     # Download and install Ubuntu
 	mkdir $ubuntu
 	cd $ubuntu
-	url=https://github.com/dream-alpha/UbuntuCockpit/releases/download/25.10/ubuntu-base-25.10-base-$arch.tar.gz
+	url=https://github.com/dream-alpha/DreamUbuntuCockpit/releases/download/25.10/ubuntu-base-25.10-base-$arch.tar.gz
 	wget $url -O ubuntu-base-25.10-base-$arch.tar.gz
 	tar -xzvf ubuntu-base-25.10-base-$arch.tar.gz
 	rm ubuntu-base-25.10-base-$arch.tar.gz
